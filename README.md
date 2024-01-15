@@ -9,7 +9,7 @@ Lab Instructions: [https://cs.oberlin.edu/~cs151/lab-9/](https://cs.oberlin.edu/
 ## Questions
 
 1. Did you collaborate with anyone on the warmup?  If so, whom did you collaborate with?
-dr levinson
+Dr. Howard Levinson
 
 2. How much time do you think you spent on this lab?
 3 hour
